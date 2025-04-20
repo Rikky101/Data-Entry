@@ -1,8 +1,5 @@
-# Data-Entry
-A structured data entry and cleaning task completed as part of an assessment. Demonstrates basic data handling, error-checking, formatting, and workflow documentation using MS Excel and Google Sheets.
-
-## 📌 Project Overview
-This project features a basic data entry assignment undertaken. It involves organizing raw data into a clean, structured format using MS Excel and Google Sheets.
+# 📌 Project Overview
+This project features a basic data entry assignment undertaken. The primary objective was to conduct targeted web research and collect relevant company information, accurately entering the details into the approved Excel template provided by the organization.
 
 ## 🛠️ Tools Used
 - Microsoft Excel
@@ -10,7 +7,7 @@ This project features a basic data entry assignment undertaken. It involves orga
   
 ## 📄 Assignment Link
 
- [Download Completed Assignment]
+ [Download Assignment_Instructions](https://github.com/Rikky101/Data-Entry/blob/main/DATA%20ENTRY%20INTERN%20TM%20ASSIGNMENT.xlsx)
 
 ## 📌 Key Tasks
 - Data entry into approved templates.
@@ -21,5 +18,5 @@ This project features a basic data entry assignment undertaken. It involves orga
 
 ## 📄 View or Download the Completed Assignment
 
-[Click here to view/download] 
+[Click here to view/download](https://github.com/Rikky101/Data-Entry/blob/main/DATA%20ENTRY%20INTERN%20TM%20ASSIGNMENT%20Solved.xlsx) 
 
